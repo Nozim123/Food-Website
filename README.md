@@ -3,7 +3,7 @@
 <img width="1356" height="623" alt="image" src="https://github.com/user-attachments/assets/d203974f-df44-407c-a7f2-95828e43d81a" />
 
 
- <h2 align="center">Food Website Demo</h2>
+ Food Website Demo
  
  <a aligin='center' href="https://food-website-murex-eight.vercel.app/"><strong>➥ Live Demo</strong></a>
  
