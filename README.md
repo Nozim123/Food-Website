@@ -6,10 +6,12 @@
 <h2>Demo</h2>
 
  <h2 align="center">Tourly - Travel website</h2>
+ 
+ <a href="https://food-website-murex-eight.vercel.app/"><strong>➥ Live Demo</strong></a>
 
   Food Website is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://food-website-murex-eight.vercel.app/"><strong>➥ Live Demo</strong></a>
+  
 
 ### Run Locally
 
