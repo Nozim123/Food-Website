@@ -9,7 +9,13 @@
  
  <a href="https://food-website-murex-eight.vercel.app/"><strong>➥ Live Demo</strong></a>
 
-  Food Website is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+ #Technologies used in the project:
+ 
+*Html
+
+*Css
+
+*JavaScript
 
   
 
