@@ -7,7 +7,7 @@
 
  <h2 align="center">Tourly - Travel website</h2>
  
- <a href="https://food-website-murex-eight.vercel.app/"><strong>➥ Live Demo</strong></a>
+ <a aligin='center' href="https://food-website-murex-eight.vercel.app/"><strong>➥ Live Demo</strong></a>
 
  #Technologies used in the project:
  
